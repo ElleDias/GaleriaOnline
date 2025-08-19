@@ -80,7 +80,9 @@ namespace GaleriaOnline.WebApi.Controllers
             if (imagemAtualizada.Arquivo != null && imagemAtualizada.Arquivo.Length > 0)
             {
                 if (System.IO.File.Exists(caminhoAntigo))
+                {
                     System.IO.File.Delete(caminhoAntigo);
+                }
 
                 var extensao = Path.GetExtension(imagemAtualizada.Arquivo.FileName);
                 var nomeArquivo = $"{Guid.NewGuid()}{extensao}";
@@ -88,11 +90,16 @@ namespace GaleriaOnline.WebApi.Controllers
                 var caminhoPasta = Path.Combine(Directory.GetCurrentDirectory(), pastaRelativa);
 
                 if (!Directory.Exists(caminhoPasta))
+                {
                     Directory.CreateDirectory(caminhoPasta);
+                }
 
                 var caminhoCompleto = Path.Combine(caminhoPasta, nomeArquivo);
-                using var stream = new FileStream(caminhoCompleto, FileMode.Create);
+                using (var stream = new FileStream(caminhoCompleto, FileMode.Create))
+                {
                 await imagemAtualizada.Arquivo.CopyToAsync(stream);
+
+                }
 
                 imagem.Caminho = Path.Combine(pastaRelativa, nomeArquivo).Replace("\\", "/");
             }
