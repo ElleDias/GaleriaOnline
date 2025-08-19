@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lOIQFv3pXUo=",
+  "dgSpecHash": "SSsSiVT9e6M=",
   "success": true,
-  "projectFilePath": "C:\\Users\\56184436864\\Desktop\\RCD\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi.csproj",
+  "projectFilePath": "C:\\Users\\56184436864\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\56184436864\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\56184436864\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

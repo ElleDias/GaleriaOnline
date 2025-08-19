@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\56184436864\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\wwwroot\\imagens\\197a5324-9326-4339-b5c5-50b695a7d685.jpg",
+      "PackagePath": "staticwebassets\\imagens\\197a5324-9326-4339-b5c5-50b695a7d685.jpg"
+    },
+    {
+      "Id": "C:\\Users\\56184436864\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\wwwroot\\imagens\\48c30e4b-7edc-49a2-b035-4ebc9f6f5a54.jpg",
+      "PackagePath": "staticwebassets\\imagens\\48c30e4b-7edc-49a2-b035-4ebc9f6f5a54.jpg"
+    },
+    {
+      "Id": "C:\\Users\\56184436864\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\wwwroot\\imagens\\6a27287e-6e29-4664-9b7f-0bde46beb140.jpg",
+      "PackagePath": "staticwebassets\\imagens\\6a27287e-6e29-4664-9b7f-0bde46beb140.jpg"
+    },
+    {
+      "Id": "C:\\Users\\56184436864\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\wwwroot\\imagens\\75c05004-712b-46be-8612-8c5f522aa46e.jpg",
+      "PackagePath": "staticwebassets\\imagens\\75c05004-712b-46be-8612-8c5f522aa46e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\56184436864\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\wwwroot\\imagens\\b6bdb98a-b1c9-4f5f-ad28-f60f68499b49.jpg",
+      "PackagePath": "staticwebassets\\imagens\\b6bdb98a-b1c9-4f5f-ad28-f60f68499b49.jpg"
+    },
+    {
+      "Id": "C:\\Users\\56184436864\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\wwwroot\\imagens\\e74c71c2-3b13-4fbf-ae93-7e7660c9916e.jpg",
+      "PackagePath": "staticwebassets\\imagens\\e74c71c2-3b13-4fbf-ae93-7e7660c9916e.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.GaleriaOnline.WebApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.GaleriaOnline.WebApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.GaleriaOnline.WebApi.props",
+      "PackagePath": "build\\GaleriaOnline.WebApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.GaleriaOnline.WebApi.props",
+      "PackagePath": "buildMultiTargeting\\GaleriaOnline.WebApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.GaleriaOnline.WebApi.props",
+      "PackagePath": "buildTransitive\\GaleriaOnline.WebApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

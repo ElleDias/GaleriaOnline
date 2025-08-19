@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\56184436864\\Desktop\\RCD\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi.csproj": {}
+    "C:\\Users\\56184436864\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\56184436864\\Desktop\\RCD\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi.csproj": {
+    "C:\\Users\\56184436864\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\56184436864\\Desktop\\RCD\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\56184436864\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi.csproj",
         "projectName": "GaleriaOnline.WebApi",
-        "projectPath": "C:\\Users\\56184436864\\Desktop\\RCD\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi.csproj",
+        "projectPath": "C:\\Users\\56184436864\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi.csproj",
         "packagesPath": "C:\\Users\\56184436864\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\56184436864\\Desktop\\RCD\\GaleriaOnline.WebApi\\obj\\",
+        "outputPath": "C:\\Users\\56184436864\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
