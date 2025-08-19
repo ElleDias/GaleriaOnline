@@ -4,6 +4,80 @@
     "title": "GaleriaOnline.WebApi",
     "version": "1.0"
   },
-  "paths": { },
+  "paths": {
+    "/api/ImagemControllers/{id}": {
+      "get": {
+        "tags": [
+          "ImagemControllers"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/ImagemControllers": {
+      "get": {
+        "tags": [
+          "ImagemControllers"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/ImagemControllers/upload": {
+      "post": {
+        "tags": [
+          "ImagemControllers"
+        ],
+        "requestBody": {
+          "content": {
+            "multipart/form-data": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "Arquivo": {
+                    "type": "string",
+                    "format": "binary"
+                  },
+                  "Nome": {
+                    "type": "string"
+                  }
+                }
+              },
+              "encoding": {
+                "Arquivo": {
+                  "style": "form"
+                },
+                "Nome": {
+                  "style": "form"
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
   "components": { }
 }
