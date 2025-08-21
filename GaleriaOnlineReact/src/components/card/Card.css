@@ -1,0 +1,24 @@
+.cardDaImagem {
+  background-color: white;
+  border-radius: 10px;
+  width: 220px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  padding: 20px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1); 
+}
+
+.imgDoCard {
+  width: 100%;         /* ocupa toda a largura do card */
+  height: 200px;       /* altura fixa */
+  object-fit: cover;   /* mantém proporção sem distorcer */
+}
+
+.icons {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
