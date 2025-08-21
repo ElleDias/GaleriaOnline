@@ -1,8 +1,24 @@
 {
   "Files": [
     {
+      "Id": "C:\\Users\\56184436864\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\wwwroot\\imagens\\2ec62f85-e2c4-4a26-8b12-517e48105fd5.png",
+      "PackagePath": "staticwebassets\\imagens\\2ec62f85-e2c4-4a26-8b12-517e48105fd5.png"
+    },
+    {
       "Id": "C:\\Users\\56184436864\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\wwwroot\\imagens\\8e8064a4-264c-4711-9991-17a026ec1abe.jpg",
       "PackagePath": "staticwebassets\\imagens\\8e8064a4-264c-4711-9991-17a026ec1abe.jpg"
+    },
+    {
+      "Id": "C:\\Users\\56184436864\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\wwwroot\\imagens\\c7bf216b-ae96-4e51-bf3e-da6a6ed49533.png",
+      "PackagePath": "staticwebassets\\imagens\\c7bf216b-ae96-4e51-bf3e-da6a6ed49533.png"
+    },
+    {
+      "Id": "C:\\Users\\56184436864\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\wwwroot\\imagens\\dce95f8c-e7ad-43be-bd0f-70daec32ecf4.png",
+      "PackagePath": "staticwebassets\\imagens\\dce95f8c-e7ad-43be-bd0f-70daec32ecf4.png"
+    },
+    {
+      "Id": "C:\\Users\\56184436864\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\wwwroot\\imagens\\e0265987-0bc0-4a04-bad6-76038b97ed59.png",
+      "PackagePath": "staticwebassets\\imagens\\e0265987-0bc0-4a04-bad6-76038b97ed59.png"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.GaleriaOnline.WebApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
