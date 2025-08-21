@@ -62,8 +62,7 @@
               "RelativeToolTip": "Controllers\\ImagemController.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAD4vxAAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T16:37:21.267Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-19T16:37:21.267Z"
             },
             {
               "$type": "Document",
@@ -75,8 +74,7 @@
               "RelativeToolTip": "DbContextImagem\\GaleriaOnlineDbContext.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAlwBQAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T12:53:24.329Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-19T12:53:24.329Z"
             },
             {
               "$type": "Document",
@@ -101,8 +99,7 @@
               "RelativeToolTip": "DTO\\PutImagemDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T19:00:41.42Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-19T19:00:41.42Z"
             },
             {
               "$type": "Document",
@@ -114,8 +111,7 @@
               "RelativeToolTip": "Interface\\IImagemRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T14:19:48.292Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-19T14:19:48.292Z"
             },
             {
               "$type": "Document",
@@ -127,8 +123,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T16:09:52.786Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-19T16:09:52.786Z"
             },
             {
               "$type": "Document",
@@ -140,8 +135,7 @@
               "RelativeToolTip": "DTO\\ImagemDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T16:47:14.014Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-19T16:47:14.014Z"
             },
             {
               "$type": "Document",
