@@ -1,4 +1,5 @@
-﻿using GaleriaOnline.WebApi.DTO;
+﻿
+using GaleriaOnline.WebApi.DTO;
 using GaleriaOnline.WebApi.Interface;
 using GaleriaOnline.WebApi.Model;
 using Microsoft.AspNetCore.Http;
