@@ -23,6 +23,7 @@ export const Galeria = () => {
                     </label>
                 </div>
                 <Botao nomeBotao="Cadastrar" />
+
             </form>
             <div className='campoCards' >
                 <Card tituloCard="studio ghibli"/>
@@ -31,28 +32,7 @@ export const Galeria = () => {
                 <Card tituloCard="studio ghibli"/>
                 <Card tituloCard="studio ghibli"/>
                 <Card tituloCard="studio ghibli"/>
-                <Card tituloCard="studio ghibli"/>
-                <Card tituloCard="studio ghibli"/>
-                <Card tituloCard="studio ghibli"/>
-                <Card tituloCard="studio ghibli"/>
-                <Card tituloCard="studio ghibli"/>
-                <Card tituloCard="studio ghibli"/>
-                <Card tituloCard="studio ghibli"/>
-                <Card tituloCard="studio ghibli"/>
-                <Card tituloCard="studio ghibli"/>
-                <Card tituloCard="studio ghibli"/>
-                <Card tituloCard="studio ghibli"/>
-                <Card tituloCard="studio ghibli"/>
-                <Card tituloCard="studio ghibli"/>
-                <Card tituloCard="studio ghibli"/>
-                <Card tituloCard="studio ghibli"/>
-                <Card tituloCard="studio ghibli"/>
-                <Card tituloCard="studio ghibli"/>
-                <Card tituloCard="studio ghibli"/>
-                <Card tituloCard="studio ghibli"/>
-                <Card tituloCard="studio ghibli"/>
-                <Card tituloCard="studio ghibli"/>
-                
+                <Card tituloCard="studio ghibli"/>                          
             </div>
         </>
     )

@@ -1,8 +1,8 @@
 import './App.css'
 import { useState } from 'react'
 import {Galeria} from './pages/galeria/Galeria'
+import {Home} from './pages/home/Home'
 //import reactLogo from './assets/react.svg'
-import './App.css'
 
 function App() {
 
@@ -10,6 +10,7 @@ function App() {
   return (
     <>
     <Galeria/>
+    {/* <Home/> */}
      </>
      )
     }
