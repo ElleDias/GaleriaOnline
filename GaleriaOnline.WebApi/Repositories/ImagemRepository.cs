@@ -6,17 +6,13 @@ using Microsoft.EntityFrameworkCore;
 namespace GaleriaOnline.WebApi.Repositories
 {
     public class ImagemRepository : IImagemRepository
+
     {
         private readonly GaleriaOnlineDbContext _context;
 
         public ImagemRepository(GaleriaOnlineDbContext context)
         {
             _context = context;
-        }
-        public async Task<IEnumerable<Imagem>> GetAllAsync()
-        {
-            //isso faz listar todas as nossas imagens
-           return await _context.Imagens.ToListAsync();
         }
 
         public async Task<Imagem> CreateAsync(Imagem imagem)
@@ -26,32 +22,31 @@ namespace GaleriaOnline.WebApi.Repositories
             return imagem;
         }
 
-        public async Task<Imagem> DeleteAsync(int id)
+        public async Task<bool> DeleteAsync(int id)
         {
-            var imagem = await _context.Imagens.SingleOrDefaultAsync(i => i.Id == id);
+            var imagem = await _context.Imagens.FindAsync(id);
             if (imagem == null)
             {
-                return null!;
+                return false;
             }
-
             _context.Imagens.Remove(imagem);
-            await _context.SaveChangesAsync();
-            return imagem;
+            return await _context.SaveChangesAsync() > 0;
         }
 
-
+        public async Task<IEnumerable<Imagem>> GetAllAsync()
+        {
+            return await _context.Imagens.ToListAsync();
+        }
 
         public async Task<Imagem> GetByIdAsync(int id)
         {
             return await _context.Imagens.FindAsync(id);
         }
 
-        public async Task<Imagem> UpdateAsync(Imagem imagem)
+        public async Task<bool> UpdateAsync(Imagem imagem)
         {
             _context.Imagens.Update(imagem);
-            await _context.SaveChangesAsync();
-            return imagem;
+            return await _context.SaveChangesAsync() > 0;
         }
-
     }
 }
