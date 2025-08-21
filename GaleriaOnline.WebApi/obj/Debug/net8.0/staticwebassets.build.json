@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "eRjVJchLOT9oCxxTFPlbyck6J0Az/BewlPaddKnClIk=",
+  "Hash": "nyQYzyTJ5Kj8dFpstjqbIziFH0xaQsjc3KmX6D+1aRw=",
   "Source": "GaleriaOnline.WebApi",
   "BasePath": "_content/GaleriaOnline.WebApi",
   "Mode": "Default",
@@ -36,6 +36,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\imagens\\197a5324-9326-4339-b5c5-50b695a7d685.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\56184436864\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\wwwroot\\imagens\\359d48ff-bcb3-4d2c-bd2a-1db30c702d00.jpg",
+      "SourceId": "GaleriaOnline.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\56184436864\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\wwwroot\\",
+      "BasePath": "_content/GaleriaOnline.WebApi",
+      "RelativePath": "imagens/359d48ff-bcb3-4d2c-bd2a-1db30c702d00#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "krl4843zbp",
+      "Integrity": "0DA2NWTzXqKfWjNRnCHRsw8yEZDf2HYdEWwWXH/D2io=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\359d48ff-bcb3-4d2c-bd2a-1db30c702d00.jpg"
     },
     {
       "Identity": "C:\\Users\\56184436864\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\wwwroot\\imagens\\48c30e4b-7edc-49a2-b035-4ebc9f6f5a54.jpg",
@@ -219,6 +240,88 @@
         {
           "Name": "label",
           "Value": "imagens/197a5324-9326-4339-b5c5-50b695a7d685.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0DA2NWTzXqKfWjNRnCHRsw8yEZDf2HYdEWwWXH/D2io="
+        }
+      ]
+    },
+    {
+      "Route": "imagens/359d48ff-bcb3-4d2c-bd2a-1db30c702d00.jpg",
+      "AssetFile": "C:\\Users\\56184436864\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\wwwroot\\imagens\\359d48ff-bcb3-4d2c-bd2a-1db30c702d00.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13195"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0DA2NWTzXqKfWjNRnCHRsw8yEZDf2HYdEWwWXH/D2io=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 19 Aug 2025 18:51:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0DA2NWTzXqKfWjNRnCHRsw8yEZDf2HYdEWwWXH/D2io="
+        }
+      ]
+    },
+    {
+      "Route": "imagens/359d48ff-bcb3-4d2c-bd2a-1db30c702d00.krl4843zbp.jpg",
+      "AssetFile": "C:\\Users\\56184436864\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\wwwroot\\imagens\\359d48ff-bcb3-4d2c-bd2a-1db30c702d00.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13195"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0DA2NWTzXqKfWjNRnCHRsw8yEZDf2HYdEWwWXH/D2io=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 19 Aug 2025 18:51:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "krl4843zbp"
+        },
+        {
+          "Name": "label",
+          "Value": "imagens/359d48ff-bcb3-4d2c-bd2a-1db30c702d00.jpg"
         },
         {
           "Name": "integrity",
