@@ -17,7 +17,10 @@ export const Galeria = () => {
         } catch (error) {
             console.error(error);
             alert("Erro ao listar.");
-        }
+        };
+    
+       inputArquivo.click();
+
     }
 
     // Cadastrar Cards.
@@ -57,7 +60,6 @@ export const Galeria = () => {
 
    function editarCard(id, nomeAntigo) {
         const novoNome = prompt("Digite o novo nome da imagem:", nomeAntigo);
-
         const inputArquivo = document.createElement("input");
         inputArquivo.type = "file";
         //Aceita imagens independente das extensões
@@ -90,6 +92,7 @@ export const Galeria = () => {
                 }
             }
         };
+        inputArquivo.click();
     }
 
     async function excluirCard(id) {
