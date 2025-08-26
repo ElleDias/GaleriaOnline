@@ -1,0 +1,36 @@
+.container {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.botaoContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;  
+    margin-top: 20px
+}
+
+.container h2 {
+    font-size: 25px;
+    color: #577c8e;
+
+}
+
+.container h1 {
+    font-size: 50px;
+    text-align: center;
+    color: #577c8e;
+
+}
+
+@media screen and (max-width: 765px) {
+    h1 {
+        font-size: 40px;
+    }
+}

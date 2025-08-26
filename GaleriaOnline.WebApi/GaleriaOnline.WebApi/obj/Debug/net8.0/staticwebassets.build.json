@@ -1,0 +1,846 @@
+{
+  "Version": 1,
+  "Hash": "ATc3pVpPwld2hcsjinhtNaos2Ov4SUKJhIGP8YZz5cE=",
+  "Source": "GaleriaOnline.WebApi",
+  "BasePath": "_content/GaleriaOnline.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "GaleriaOnline.WebApi\\wwwroot",
+      "Source": "GaleriaOnline.WebApi",
+      "ContentRoot": "C:\\Users\\56184436864\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\wwwroot\\",
+      "BasePath": "_content/GaleriaOnline.WebApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\56184436864\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\wwwroot\\imagens\\0200aab0-b86d-4132-a4a4-97057339b071.jpg",
+      "SourceId": "GaleriaOnline.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\56184436864\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\wwwroot\\",
+      "BasePath": "_content/GaleriaOnline.WebApi",
+      "RelativePath": "imagens/0200aab0-b86d-4132-a4a4-97057339b071#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v8pu7qhcfs",
+      "Integrity": "sQX4dScPWCjkpLPgS+3tcJ5pE62QlIdqSUXW50R+XJU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\0200aab0-b86d-4132-a4a4-97057339b071.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\56184436864\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\wwwroot\\imagens\\226228ee-2562-4227-b078-cf8cd9181018.webp",
+      "SourceId": "GaleriaOnline.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\56184436864\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\wwwroot\\",
+      "BasePath": "_content/GaleriaOnline.WebApi",
+      "RelativePath": "imagens/226228ee-2562-4227-b078-cf8cd9181018#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sblm393j0p",
+      "Integrity": "iFNTEnAURE6M1aIZHe2GX2nR+VVnQBDu/IFMN3JTZMo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\226228ee-2562-4227-b078-cf8cd9181018.webp"
+    },
+    {
+      "Identity": "C:\\Users\\56184436864\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\wwwroot\\imagens\\2f7c7fb4-24ee-45b4-aed1-251765be0222.jpg",
+      "SourceId": "GaleriaOnline.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\56184436864\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\wwwroot\\",
+      "BasePath": "_content/GaleriaOnline.WebApi",
+      "RelativePath": "imagens/2f7c7fb4-24ee-45b4-aed1-251765be0222#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v8pu7qhcfs",
+      "Integrity": "sQX4dScPWCjkpLPgS+3tcJ5pE62QlIdqSUXW50R+XJU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\2f7c7fb4-24ee-45b4-aed1-251765be0222.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\56184436864\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\wwwroot\\imagens\\3e227206-e671-46c9-9e42-521042d1952d.webp",
+      "SourceId": "GaleriaOnline.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\56184436864\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\wwwroot\\",
+      "BasePath": "_content/GaleriaOnline.WebApi",
+      "RelativePath": "imagens/3e227206-e671-46c9-9e42-521042d1952d#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "f9jjollx7r",
+      "Integrity": "QwQqtINwaBh9gPugN772WzwKUZcJFK4CutPbaiR0QJw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\3e227206-e671-46c9-9e42-521042d1952d.webp"
+    },
+    {
+      "Identity": "C:\\Users\\56184436864\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\wwwroot\\imagens\\8ed95c9e-d3fa-49fc-9a45-b174ef383bd8.webp",
+      "SourceId": "GaleriaOnline.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\56184436864\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\wwwroot\\",
+      "BasePath": "_content/GaleriaOnline.WebApi",
+      "RelativePath": "imagens/8ed95c9e-d3fa-49fc-9a45-b174ef383bd8#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2f929fkloz",
+      "Integrity": "0p4ro2Tnx03AowxNBicELxSvQhTawqCrYkpTgxaajVI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\8ed95c9e-d3fa-49fc-9a45-b174ef383bd8.webp"
+    },
+    {
+      "Identity": "C:\\Users\\56184436864\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\wwwroot\\imagens\\a36a2745-8774-42de-a50a-3a6295f057f3.png",
+      "SourceId": "GaleriaOnline.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\56184436864\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\wwwroot\\",
+      "BasePath": "_content/GaleriaOnline.WebApi",
+      "RelativePath": "imagens/a36a2745-8774-42de-a50a-3a6295f057f3#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "upqxfxqvag",
+      "Integrity": "gvgCP4u1QPAlYITW74kpLcsiukh5zH31lBZnI5Q5PTs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\a36a2745-8774-42de-a50a-3a6295f057f3.png"
+    },
+    {
+      "Identity": "C:\\Users\\56184436864\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\wwwroot\\imagens\\c9669056-ddca-47f8-8837-9c06effe136e.webp",
+      "SourceId": "GaleriaOnline.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\56184436864\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\wwwroot\\",
+      "BasePath": "_content/GaleriaOnline.WebApi",
+      "RelativePath": "imagens/c9669056-ddca-47f8-8837-9c06effe136e#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "81gscrav89",
+      "Integrity": "LHhzAjl33lIkHCskaRn5usCanZmigbziBQH91wpYTH0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\c9669056-ddca-47f8-8837-9c06effe136e.webp"
+    },
+    {
+      "Identity": "C:\\Users\\56184436864\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\wwwroot\\imagens\\d1a56350-0a15-4c7d-bca6-451d2b8c13ec.webp",
+      "SourceId": "GaleriaOnline.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\56184436864\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\wwwroot\\",
+      "BasePath": "_content/GaleriaOnline.WebApi",
+      "RelativePath": "imagens/d1a56350-0a15-4c7d-bca6-451d2b8c13ec#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "449gq8jrs2",
+      "Integrity": "JPzNVwVS/sFmPdJzrRxEHc084Z+yBocFRqDJ+CMgKUY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\d1a56350-0a15-4c7d-bca6-451d2b8c13ec.webp"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "imagens/0200aab0-b86d-4132-a4a4-97057339b071.jpg",
+      "AssetFile": "C:\\Users\\56184436864\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\wwwroot\\imagens\\0200aab0-b86d-4132-a4a4-97057339b071.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "115676"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sQX4dScPWCjkpLPgS+3tcJ5pE62QlIdqSUXW50R+XJU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Aug 2025 16:52:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sQX4dScPWCjkpLPgS+3tcJ5pE62QlIdqSUXW50R+XJU="
+        }
+      ]
+    },
+    {
+      "Route": "imagens/0200aab0-b86d-4132-a4a4-97057339b071.v8pu7qhcfs.jpg",
+      "AssetFile": "C:\\Users\\56184436864\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\wwwroot\\imagens\\0200aab0-b86d-4132-a4a4-97057339b071.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "115676"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sQX4dScPWCjkpLPgS+3tcJ5pE62QlIdqSUXW50R+XJU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Aug 2025 16:52:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v8pu7qhcfs"
+        },
+        {
+          "Name": "label",
+          "Value": "imagens/0200aab0-b86d-4132-a4a4-97057339b071.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sQX4dScPWCjkpLPgS+3tcJ5pE62QlIdqSUXW50R+XJU="
+        }
+      ]
+    },
+    {
+      "Route": "imagens/226228ee-2562-4227-b078-cf8cd9181018.sblm393j0p.webp",
+      "AssetFile": "C:\\Users\\56184436864\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\wwwroot\\imagens\\226228ee-2562-4227-b078-cf8cd9181018.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6328"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iFNTEnAURE6M1aIZHe2GX2nR+VVnQBDu/IFMN3JTZMo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Aug 2025 17:08:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sblm393j0p"
+        },
+        {
+          "Name": "label",
+          "Value": "imagens/226228ee-2562-4227-b078-cf8cd9181018.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iFNTEnAURE6M1aIZHe2GX2nR+VVnQBDu/IFMN3JTZMo="
+        }
+      ]
+    },
+    {
+      "Route": "imagens/226228ee-2562-4227-b078-cf8cd9181018.webp",
+      "AssetFile": "C:\\Users\\56184436864\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\wwwroot\\imagens\\226228ee-2562-4227-b078-cf8cd9181018.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6328"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iFNTEnAURE6M1aIZHe2GX2nR+VVnQBDu/IFMN3JTZMo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Aug 2025 17:08:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iFNTEnAURE6M1aIZHe2GX2nR+VVnQBDu/IFMN3JTZMo="
+        }
+      ]
+    },
+    {
+      "Route": "imagens/2f7c7fb4-24ee-45b4-aed1-251765be0222.jpg",
+      "AssetFile": "C:\\Users\\56184436864\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\wwwroot\\imagens\\2f7c7fb4-24ee-45b4-aed1-251765be0222.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "115676"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sQX4dScPWCjkpLPgS+3tcJ5pE62QlIdqSUXW50R+XJU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Aug 2025 16:52:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sQX4dScPWCjkpLPgS+3tcJ5pE62QlIdqSUXW50R+XJU="
+        }
+      ]
+    },
+    {
+      "Route": "imagens/2f7c7fb4-24ee-45b4-aed1-251765be0222.v8pu7qhcfs.jpg",
+      "AssetFile": "C:\\Users\\56184436864\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\wwwroot\\imagens\\2f7c7fb4-24ee-45b4-aed1-251765be0222.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "115676"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sQX4dScPWCjkpLPgS+3tcJ5pE62QlIdqSUXW50R+XJU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Aug 2025 16:52:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v8pu7qhcfs"
+        },
+        {
+          "Name": "label",
+          "Value": "imagens/2f7c7fb4-24ee-45b4-aed1-251765be0222.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sQX4dScPWCjkpLPgS+3tcJ5pE62QlIdqSUXW50R+XJU="
+        }
+      ]
+    },
+    {
+      "Route": "imagens/3e227206-e671-46c9-9e42-521042d1952d.f9jjollx7r.webp",
+      "AssetFile": "C:\\Users\\56184436864\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\wwwroot\\imagens\\3e227206-e671-46c9-9e42-521042d1952d.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11858"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QwQqtINwaBh9gPugN772WzwKUZcJFK4CutPbaiR0QJw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Aug 2025 16:52:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f9jjollx7r"
+        },
+        {
+          "Name": "label",
+          "Value": "imagens/3e227206-e671-46c9-9e42-521042d1952d.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QwQqtINwaBh9gPugN772WzwKUZcJFK4CutPbaiR0QJw="
+        }
+      ]
+    },
+    {
+      "Route": "imagens/3e227206-e671-46c9-9e42-521042d1952d.webp",
+      "AssetFile": "C:\\Users\\56184436864\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\wwwroot\\imagens\\3e227206-e671-46c9-9e42-521042d1952d.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11858"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QwQqtINwaBh9gPugN772WzwKUZcJFK4CutPbaiR0QJw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Aug 2025 16:52:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QwQqtINwaBh9gPugN772WzwKUZcJFK4CutPbaiR0QJw="
+        }
+      ]
+    },
+    {
+      "Route": "imagens/8ed95c9e-d3fa-49fc-9a45-b174ef383bd8.2f929fkloz.webp",
+      "AssetFile": "C:\\Users\\56184436864\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\wwwroot\\imagens\\8ed95c9e-d3fa-49fc-9a45-b174ef383bd8.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8216"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0p4ro2Tnx03AowxNBicELxSvQhTawqCrYkpTgxaajVI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Aug 2025 17:08:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2f929fkloz"
+        },
+        {
+          "Name": "label",
+          "Value": "imagens/8ed95c9e-d3fa-49fc-9a45-b174ef383bd8.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0p4ro2Tnx03AowxNBicELxSvQhTawqCrYkpTgxaajVI="
+        }
+      ]
+    },
+    {
+      "Route": "imagens/8ed95c9e-d3fa-49fc-9a45-b174ef383bd8.webp",
+      "AssetFile": "C:\\Users\\56184436864\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\wwwroot\\imagens\\8ed95c9e-d3fa-49fc-9a45-b174ef383bd8.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8216"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0p4ro2Tnx03AowxNBicELxSvQhTawqCrYkpTgxaajVI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Aug 2025 17:08:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0p4ro2Tnx03AowxNBicELxSvQhTawqCrYkpTgxaajVI="
+        }
+      ]
+    },
+    {
+      "Route": "imagens/a36a2745-8774-42de-a50a-3a6295f057f3.png",
+      "AssetFile": "C:\\Users\\56184436864\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\wwwroot\\imagens\\a36a2745-8774-42de-a50a-3a6295f057f3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "391929"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gvgCP4u1QPAlYITW74kpLcsiukh5zH31lBZnI5Q5PTs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Aug 2025 16:57:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gvgCP4u1QPAlYITW74kpLcsiukh5zH31lBZnI5Q5PTs="
+        }
+      ]
+    },
+    {
+      "Route": "imagens/a36a2745-8774-42de-a50a-3a6295f057f3.upqxfxqvag.png",
+      "AssetFile": "C:\\Users\\56184436864\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\wwwroot\\imagens\\a36a2745-8774-42de-a50a-3a6295f057f3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "391929"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gvgCP4u1QPAlYITW74kpLcsiukh5zH31lBZnI5Q5PTs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Aug 2025 16:57:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "upqxfxqvag"
+        },
+        {
+          "Name": "label",
+          "Value": "imagens/a36a2745-8774-42de-a50a-3a6295f057f3.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gvgCP4u1QPAlYITW74kpLcsiukh5zH31lBZnI5Q5PTs="
+        }
+      ]
+    },
+    {
+      "Route": "imagens/c9669056-ddca-47f8-8837-9c06effe136e.81gscrav89.webp",
+      "AssetFile": "C:\\Users\\56184436864\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\wwwroot\\imagens\\c9669056-ddca-47f8-8837-9c06effe136e.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6146"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LHhzAjl33lIkHCskaRn5usCanZmigbziBQH91wpYTH0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Aug 2025 17:08:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "81gscrav89"
+        },
+        {
+          "Name": "label",
+          "Value": "imagens/c9669056-ddca-47f8-8837-9c06effe136e.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LHhzAjl33lIkHCskaRn5usCanZmigbziBQH91wpYTH0="
+        }
+      ]
+    },
+    {
+      "Route": "imagens/c9669056-ddca-47f8-8837-9c06effe136e.webp",
+      "AssetFile": "C:\\Users\\56184436864\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\wwwroot\\imagens\\c9669056-ddca-47f8-8837-9c06effe136e.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6146"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LHhzAjl33lIkHCskaRn5usCanZmigbziBQH91wpYTH0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Aug 2025 17:08:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LHhzAjl33lIkHCskaRn5usCanZmigbziBQH91wpYTH0="
+        }
+      ]
+    },
+    {
+      "Route": "imagens/d1a56350-0a15-4c7d-bca6-451d2b8c13ec.449gq8jrs2.webp",
+      "AssetFile": "C:\\Users\\56184436864\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\wwwroot\\imagens\\d1a56350-0a15-4c7d-bca6-451d2b8c13ec.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6310"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JPzNVwVS/sFmPdJzrRxEHc084Z+yBocFRqDJ+CMgKUY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Aug 2025 17:08:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "449gq8jrs2"
+        },
+        {
+          "Name": "label",
+          "Value": "imagens/d1a56350-0a15-4c7d-bca6-451d2b8c13ec.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JPzNVwVS/sFmPdJzrRxEHc084Z+yBocFRqDJ+CMgKUY="
+        }
+      ]
+    },
+    {
+      "Route": "imagens/d1a56350-0a15-4c7d-bca6-451d2b8c13ec.webp",
+      "AssetFile": "C:\\Users\\56184436864\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\wwwroot\\imagens\\d1a56350-0a15-4c7d-bca6-451d2b8c13ec.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6310"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JPzNVwVS/sFmPdJzrRxEHc084Z+yBocFRqDJ+CMgKUY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Aug 2025 17:08:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JPzNVwVS/sFmPdJzrRxEHc084Z+yBocFRqDJ+CMgKUY="
+        }
+      ]
+    }
+  ]
+}

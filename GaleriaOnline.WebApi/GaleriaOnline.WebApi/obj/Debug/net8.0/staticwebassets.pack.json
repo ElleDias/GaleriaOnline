@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\56184436864\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\wwwroot\\imagens\\0200aab0-b86d-4132-a4a4-97057339b071.jpg",
+      "PackagePath": "staticwebassets\\imagens\\0200aab0-b86d-4132-a4a4-97057339b071.jpg"
+    },
+    {
+      "Id": "C:\\Users\\56184436864\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\wwwroot\\imagens\\226228ee-2562-4227-b078-cf8cd9181018.webp",
+      "PackagePath": "staticwebassets\\imagens\\226228ee-2562-4227-b078-cf8cd9181018.webp"
+    },
+    {
+      "Id": "C:\\Users\\56184436864\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\wwwroot\\imagens\\2f7c7fb4-24ee-45b4-aed1-251765be0222.jpg",
+      "PackagePath": "staticwebassets\\imagens\\2f7c7fb4-24ee-45b4-aed1-251765be0222.jpg"
+    },
+    {
+      "Id": "C:\\Users\\56184436864\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\wwwroot\\imagens\\3e227206-e671-46c9-9e42-521042d1952d.webp",
+      "PackagePath": "staticwebassets\\imagens\\3e227206-e671-46c9-9e42-521042d1952d.webp"
+    },
+    {
+      "Id": "C:\\Users\\56184436864\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\wwwroot\\imagens\\8ed95c9e-d3fa-49fc-9a45-b174ef383bd8.webp",
+      "PackagePath": "staticwebassets\\imagens\\8ed95c9e-d3fa-49fc-9a45-b174ef383bd8.webp"
+    },
+    {
+      "Id": "C:\\Users\\56184436864\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\wwwroot\\imagens\\a36a2745-8774-42de-a50a-3a6295f057f3.png",
+      "PackagePath": "staticwebassets\\imagens\\a36a2745-8774-42de-a50a-3a6295f057f3.png"
+    },
+    {
+      "Id": "C:\\Users\\56184436864\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\wwwroot\\imagens\\c9669056-ddca-47f8-8837-9c06effe136e.webp",
+      "PackagePath": "staticwebassets\\imagens\\c9669056-ddca-47f8-8837-9c06effe136e.webp"
+    },
+    {
+      "Id": "C:\\Users\\56184436864\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\wwwroot\\imagens\\d1a56350-0a15-4c7d-bca6-451d2b8c13ec.webp",
+      "PackagePath": "staticwebassets\\imagens\\d1a56350-0a15-4c7d-bca6-451d2b8c13ec.webp"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.GaleriaOnline.WebApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.GaleriaOnline.WebApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.GaleriaOnline.WebApi.props",
+      "PackagePath": "build\\GaleriaOnline.WebApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.GaleriaOnline.WebApi.props",
+      "PackagePath": "buildMultiTargeting\\GaleriaOnline.WebApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.GaleriaOnline.WebApi.props",
+      "PackagePath": "buildTransitive\\GaleriaOnline.WebApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
