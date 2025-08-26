@@ -4,5 +4,6 @@ wwwroot\imagens\2f7c7fb4-24ee-45b4-aed1-251765be0222.jpg
 wwwroot\imagens\3e227206-e671-46c9-9e42-521042d1952d.webp
 wwwroot\imagens\8ed95c9e-d3fa-49fc-9a45-b174ef383bd8.webp
 wwwroot\imagens\a36a2745-8774-42de-a50a-3a6295f057f3.png
+wwwroot\imagens\a5674def-d726-4aa7-9720-ac53863961ac.png
 wwwroot\imagens\c9669056-ddca-47f8-8837-9c06effe136e.webp
 wwwroot\imagens\d1a56350-0a15-4c7d-bca6-451d2b8c13ec.webp

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ATc3pVpPwld2hcsjinhtNaos2Ov4SUKJhIGP8YZz5cE=",
+  "Hash": "qCU6eETAHyq9cBd0kMHeMpw4WSEqE58rZ4xKtqq6cOQ=",
   "Source": "GaleriaOnline.WebApi",
   "BasePath": "_content/GaleriaOnline.WebApi",
   "Mode": "Default",
@@ -141,6 +141,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\imagens\\a36a2745-8774-42de-a50a-3a6295f057f3.png"
+    },
+    {
+      "Identity": "C:\\Users\\56184436864\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\wwwroot\\imagens\\a5674def-d726-4aa7-9720-ac53863961ac.png",
+      "SourceId": "GaleriaOnline.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\56184436864\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\wwwroot\\",
+      "BasePath": "_content/GaleriaOnline.WebApi",
+      "RelativePath": "imagens/a5674def-d726-4aa7-9720-ac53863961ac#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ieqt0z7jl2",
+      "Integrity": "FjmBTn5Go/zZHpLvHRsdeRY95gTpKROVCNvXXE0g8qw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\a5674def-d726-4aa7-9720-ac53863961ac.png"
     },
     {
       "Identity": "C:\\Users\\56184436864\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\wwwroot\\imagens\\c9669056-ddca-47f8-8837-9c06effe136e.webp",
@@ -675,6 +696,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-gvgCP4u1QPAlYITW74kpLcsiukh5zH31lBZnI5Q5PTs="
+        }
+      ]
+    },
+    {
+      "Route": "imagens/a5674def-d726-4aa7-9720-ac53863961ac.ieqt0z7jl2.png",
+      "AssetFile": "C:\\Users\\56184436864\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\wwwroot\\imagens\\a5674def-d726-4aa7-9720-ac53863961ac.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "284660"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FjmBTn5Go/zZHpLvHRsdeRY95gTpKROVCNvXXE0g8qw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Aug 2025 17:42:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ieqt0z7jl2"
+        },
+        {
+          "Name": "label",
+          "Value": "imagens/a5674def-d726-4aa7-9720-ac53863961ac.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FjmBTn5Go/zZHpLvHRsdeRY95gTpKROVCNvXXE0g8qw="
+        }
+      ]
+    },
+    {
+      "Route": "imagens/a5674def-d726-4aa7-9720-ac53863961ac.png",
+      "AssetFile": "C:\\Users\\56184436864\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\wwwroot\\imagens\\a5674def-d726-4aa7-9720-ac53863961ac.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "284660"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FjmBTn5Go/zZHpLvHRsdeRY95gTpKROVCNvXXE0g8qw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Aug 2025 17:42:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FjmBTn5Go/zZHpLvHRsdeRY95gTpKROVCNvXXE0g8qw="
         }
       ]
     },
